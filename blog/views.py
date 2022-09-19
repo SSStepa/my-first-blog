@@ -46,4 +46,4 @@ def post_edit(request, pk):
 
 def sitemap(request):
     posts = Post.objects.filter(published_date__lte=timezone.now()).order_by('published_date')
-    return render(request, 'blog/sitemap.html', {'posts': posts})
+    return render(request, 'blog/sitemap.xml')

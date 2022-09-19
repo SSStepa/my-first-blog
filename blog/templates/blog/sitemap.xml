@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://127.0.0.1:8000/</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/admin/</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/new/</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/admin/</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/1</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/1/edit</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/2</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/2/edit</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/4</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/4/edit</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/5</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/5/edit</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/6</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/6/edit</loc>
+    <br> </br>
+     <loc>http://127.0.0.1:8000/post/7</loc>
+     <br> </br>
+     <loc>http://127.0.0.1:8000/post/7/edit</loc>
+     <br> </br>
+  </url>
+</urlset>
